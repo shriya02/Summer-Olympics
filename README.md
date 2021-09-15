@@ -11,5 +11,5 @@ shriyanatta@gmail.com
 4 Phelps
 5 phelps
 6 1928
-7 
+7 Football
 8 aquatics
